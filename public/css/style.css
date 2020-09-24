@@ -1,0 +1,27 @@
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+footer{
+    max-width: 100%;
+    display: block;
+    border: #718C00;
+}
+
+.bg-light {
+    background-color: #FFFFFF !important;
+}
+
+.navbar-brand img {
+    max-width: 20%;
+}
+.bg-img-top img {
+    display: flex;
+    margin-top: 50px;
+    max-width: 100%;
+    align-content: end;
+    opacity: 30%;
+
+    height: auto;
+}
